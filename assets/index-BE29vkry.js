@@ -121,7 +121,7 @@ Error generating stack: `+o.message+`
       }
     }
   }
-`;const Bv="/assets/about-dmQYT7Xz.jpg",Wv="/assets/maincover-nSgwdaKa.jpg",Hv=()=>g.jsxs("div",{className:"about-container",children:[g.jsx("div",{className:"about-left",children:g.jsx("img",{src:Bv,alt:"Left Image",className:"about-image"})}),g.jsxs("div",{className:"about-center",children:[g.jsx("h2",{children:"Our History"}),g.jsx("p",{children:"Welcome to our restaurant! Established in 2000, we have been serving authentic and delicious meals for over 24 years. Our passion for food is reflected in the quality of our dishes and the warm ambiance we offer to our guests. Whether you are here for a casual meal or a special occasion, our rich history is present in every dish."})]}),g.jsx("div",{className:"about-right",children:g.jsx("img",{src:Wv,alt:"Right Image",className:"about-image"})})]}),Vv="/assets/product1-0VOlwtN7.jpg",Yv="/assets/product2-GPIRR1xP.jpg",Gv="/assets/product3-BkCDxgXT.jpg",Qv="/assets/product4-DETReS0-.jpg",Kv=Bu`
+`;const Bv="/mern-stack/assets/about-dmQYT7Xz.jpg",Wv="/mern-stack/assets/maincover-nSgwdaKa.jpg",Hv=()=>g.jsxs("div",{className:"about-container",children:[g.jsx("div",{className:"about-left",children:g.jsx("img",{src:Bv,alt:"Left Image",className:"about-image"})}),g.jsxs("div",{className:"about-center",children:[g.jsx("h2",{children:"Our History"}),g.jsx("p",{children:"Welcome to our restaurant! Established in 2000, we have been serving authentic and delicious meals for over 24 years. Our passion for food is reflected in the quality of our dishes and the warm ambiance we offer to our guests. Whether you are here for a casual meal or a special occasion, our rich history is present in every dish."})]}),g.jsx("div",{className:"about-right",children:g.jsx("img",{src:Wv,alt:"Right Image",className:"about-image"})})]}),Vv="/mern-stack/assets/product1-0VOlwtN7.jpg",Yv="/mern-stack/assets/product2-GPIRR1xP.jpg",Gv="/mern-stack/assets/product3-BkCDxgXT.jpg",Qv="/mern-stack/assets/product4-DETReS0-.jpg",Kv=Bu`
   img {
     transition: 0.8s ease-in-out;
     &:hover {
@@ -313,7 +313,7 @@ Error generating stack: `+o.message+`
       }
     }
   }
-`;const ly="/assets/hero1-ndL_PgaV.jpg",Lf=()=>g.jsxs(ay,{children:[g.jsx("img",{src:ly,alt:"Delicious Food"}),g.jsx(sy,{children:g.jsx(uy,{children:"Welcome to our restaurant, enjoy delicious and tasty food!"})})]}),ay=qe.section`
+`;const ly="/mern-stack/assets/hero1-ndL_PgaV.jpg",Lf=()=>g.jsxs(ay,{children:[g.jsx("img",{src:ly,alt:"Delicious Food"}),g.jsx(sy,{children:g.jsx(uy,{children:"Welcome to our restaurant, enjoy delicious and tasty food!"})})]}),ay=qe.section`
   position: relative; // Position relative to contain absolutely positioned children
   width: 100%;
   img {
@@ -901,7 +901,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
       text-transform: uppercase;
     }
   }
-`;function Sx(){return g.jsx(wx,{children:g.jsxs("div",{className:"copyright-text",children:["Copyright © 2024 ",g.jsx("span",{children:"Food Yummy"})]})})}const kx="/assets/Pizza-DxUrsnct.png",Ex="/assets/rest1-CqX-Ptm3.jpeg",Cx="/assets/rest2-BRm43Fpl.jpeg";var Mh={exports:{}};/*!
+`;function Sx(){return g.jsx(wx,{children:g.jsxs("div",{className:"copyright-text",children:["Copyright © 2024 ",g.jsx("span",{children:"Food Yummy"})]})})}const kx="/mern-stack/assets/Pizza-DxUrsnct.png",Ex="/mern-stack/assets/rest1-CqX-Ptm3.jpeg",Cx="/mern-stack/assets/rest2-BRm43Fpl.jpeg";var Mh={exports:{}};/*!
 	Copyright (c) 2018 Jed Watson.
 	Licensed under the MIT License (MIT), see
 	http://jedwatson.github.io/classnames
@@ -954,7 +954,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
       width: 100%; /* Ensure image covers the width */
     }
   }
-`,xw="/assets/im1-E6BhNNyq.jpg",ww="/assets/im2-DhvXqJal.jpeg",Sw="/assets/im3-CxfhHQ1Q.jpeg";function kw(){return g.jsxs(Ew,{id:"signature-dishes",children:[g.jsx("h1",{children:"Signature Dishes"}),g.jsxs("div",{className:"dishes-container",children:[g.jsxs("div",{className:"dish",children:[g.jsx("img",{src:xw,alt:"Signature Dish 1"}),g.jsx("h2",{children:"Mexican Salad"})]}),g.jsxs("div",{className:"dish",children:[g.jsx("img",{src:ww,alt:"Signature Dish 2"}),g.jsx("h2",{children:"Hyderabadi biryani"})]}),g.jsxs("div",{className:"dish",children:[g.jsx("img",{src:Sw,alt:"Signature Dish 3"}),g.jsx("h2",{children:"Strawberry Pudding"})]})]})]})}const Ew=qe.section`
+`,xw="/mern-stack/assets/im1-E6BhNNyq.jpg",ww="/mern-stack/assets/im2-DhvXqJal.jpeg",Sw="/mern-stack/assets/im3-CxfhHQ1Q.jpeg";function kw(){return g.jsxs(Ew,{id:"signature-dishes",children:[g.jsx("h1",{children:"Signature Dishes"}),g.jsxs("div",{className:"dishes-container",children:[g.jsxs("div",{className:"dish",children:[g.jsx("img",{src:xw,alt:"Signature Dish 1"}),g.jsx("h2",{children:"Mexican Salad"})]}),g.jsxs("div",{className:"dish",children:[g.jsx("img",{src:ww,alt:"Signature Dish 2"}),g.jsx("h2",{children:"Hyderabadi biryani"})]}),g.jsxs("div",{className:"dish",children:[g.jsx("img",{src:Sw,alt:"Signature Dish 3"}),g.jsx("h2",{children:"Strawberry Pudding"})]})]})]})}const Ew=qe.section`
   padding: 3rem;
   text-align: center;
   
